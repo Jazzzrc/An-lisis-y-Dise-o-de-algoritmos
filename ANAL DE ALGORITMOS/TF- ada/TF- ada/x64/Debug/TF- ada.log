@@ -1,0 +1,3 @@
+﻿  TF- ada.cpp
+C:\Users\Favio\Desktop\ANAL DE ALGORITMOS\TF- ada\TF- ada\TF- ada.cpp(228,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  TF- ada.vcxproj -> C:\Users\Favio\Desktop\ANAL DE ALGORITMOS\TF- ada\x64\Debug\TF- ada.exe
